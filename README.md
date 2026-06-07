@@ -29,7 +29,7 @@ Infrastructure as Code using CloudFormation to launch a website with dynamic sca
 Deployed a scalable web app using AWS EKS, Terraform, Jenkins CI/CD, SonarQube, Trivy, Prometheus, and Grafana.
 
 #### 🔹 [Lambda Automation scripts](https://github.com/Birendrakum/AWS-Automation-lambda-.git)
-1. Hourly health report using of autoscaling group using lambda and eventbridge
+1. Hourly health report of autoscaling group using lambda and eventbridge
 2. AWS IAM Access Key Rotation Automation
 3. AWS S3 Malware Scanning and Quarantine Solution
 
