@@ -28,11 +28,19 @@ Infrastructure as Code using CloudFormation to launch a website with dynamic sca
 #### 🔹 [BookMyShow Clone – End-to-End DevOps Deployment](https://github.com/Birendrakum/Plumbing-service-website.git)
 Deployed a scalable web app using AWS EKS, Terraform, Jenkins CI/CD, SonarQube, Trivy, Prometheus, and Grafana.
 
-#### 🔹 [Lambda Automation scripts](https://github.com/Birendrakum/AWS-Automation-lambda-.git)
+#### 🔹 [Lambda Automation scripts]( https://github.com/Birendrakum/Linux_Automation.git)
 1. Hourly health report of autoscaling group using lambda and eventbridge
 2. AWS IAM Access Key Rotation Automation
 3. AWS S3 Malware Scanning and Quarantine Solution
 
+#### 🔹 [Shell_Scripting](https://github.com/Birendrakum/AWS-Automation-lambda-.git)
+1. Developed Linux automation scripts to streamline routine system administration tasks, reducing manual operational effort.
+2. Automated user and group management, file handling, permission assignment, and system maintenance activities using Bash scripting.
+3. Implemented log monitoring and reporting mechanisms to improve system visibility and operational efficiency.
+4. Automated backup and housekeeping tasks using Cron jobs for scheduled execution.
+5. Enhanced system administration workflows through scripting, improving consistency and reducing human error.
+6. Applied Linux administration best practices involving process management, file systems, permissions, and task automation.
+   
 #### 🔹 working
 ---
 
