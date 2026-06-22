@@ -25,7 +25,7 @@
 #### 🔹 [Automated Scalable AWS Infrastructure Deployment](https://github.com/Birendrakum/AWS-Project.git)
 Infrastructure as Code using CloudFormation to launch a website with dynamic scaling and secure S3 integration.
 
-#### 🔹 [BookMyShow Clone – End-to-End DevOps Deployment](https://github.com/Birendrakum/Plumbing-service-website.git)
+#### 🔹 [End-to-End DevOps Deployment](https://github.com/Birendrakum/Plumbing-service-website.git)
 Deployed a scalable web app using AWS EKS, Terraform, Jenkins CI/CD, SonarQube, Trivy, Prometheus, and Grafana.
 
 #### 🔹 [Lambda Automation scripts]( https://github.com/Birendrakum/Linux_Automation.git)
@@ -41,8 +41,15 @@ Deployed a scalable web app using AWS EKS, Terraform, Jenkins CI/CD, SonarQube, 
 5. Enhanced system administration workflows through scripting, improving consistency and reducing human error.
 6. Applied Linux administration best practices involving process management, file systems, permissions, and task automation.
    
-#### 🔹 working
----
+#### 🔹 [DevOps - CI/CD for deploying BookMyShow clone app](https://github.com/Birendrakum/DevOps-BMS.git)
+1. Designed and implemented an end-to-end CI/CD pipeline using Jenkins, Terraform, Docker, and Amazon EKS to automate infrastructure provisioning and application deployment.
+2. Provisioned AWS infrastructure using Terraform, including VPC, public/private subnets, NAT Gateway, IAM roles, EC2 instances, and security groups.
+3. Automated Kubernetes cluster creation and application deployment on Amazon EKS using Jenkins pipeline stages and kubectl.
+4. Integrated SonarQube, OWASP Dependency-Check, and Trivy into the CI/CD workflow to perform static code analysis and vulnerability scanning.
+5. Built and pushed Docker images to a container registry and deployed them to Kubernetes using declarative manifests.
+6. Implemented infrastructure and deployment automation with reusable Terraform modules and Jenkins pipelines, reducing manual provisioning effort.
+7. Configured Prometheus, Grafana, and Node Exporter to monitor Jenkins server health, including CPU, memory, disk, and network utilization.
+8. Applied Infrastructure as Code and DevSecOps best practices to create a reproducible, automated deployment workflow on AWS.
 
 ### 🛠️ Tech Stack
 **Cloud:** AWS (EC2, VPC, S3, IAM, CloudWatch, CloudTrail, EventBridge, AWS KMS, Secret Manager, ECS, EKS, SQS, SNS, lambda, AWS Organization, EBS, EFS)  
